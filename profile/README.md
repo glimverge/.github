@@ -22,7 +22,7 @@ Bug fixes, features, docs, or ideas — all welcome. See each repository for its
 
 ## Social
 
-<p>
+<p align="center">
   <a href="#"><img height="20" width="20" src="https://cdn.simpleicons.org/x" alt="X" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img height="20" width="20" src="https://cdn.simpleicons.org/bluesky" alt="Bluesky" /></a>
