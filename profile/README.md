@@ -1,8 +1,6 @@
 > 临界有光，边界可通  
 > <i>Where edges meet, glimmers emerge.</i>
 
----
-
 ## 🌐 关于
 
 Glimverge 是一间独立工作室，工作大多落在 AI 与软件相遇的地方
