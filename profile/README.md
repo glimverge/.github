@@ -22,12 +22,12 @@ Bug fixes, features, docs, or ideas — all welcome. See each repository for its
 
 ## Social
 
-- **[X]()** — Short updates and public notes
-- **[知乎]()** — Long-form Q&A and essays
-- **[掘金]()** — Developer articles and discussion
-- **[Bilibili]()** — Video and tech talks
-- **[小红书]()** — Product notes and behind-the-scenes
-- **[抖音]()** — Short video
+- **[X]()** — Release notes, project updates, and public conversation
+- **[知乎]()** — In-depth Q&A and long-form technical writing
+- **[掘金]()** — Developer tutorials and engineering posts
+- **[Bilibili]()** — Screencasts, demos, and tech talks
+- **[小红书]()** — Product snapshots and studio notes
+- **[抖音]()** — Short-form product demos and highlights
 
 ---
 
