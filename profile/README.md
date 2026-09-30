@@ -5,19 +5,19 @@ Building minimal, reliable tools through personal experimentation.
 
 <p align="center">
   <a href="#"><img height="20" width="20" src="https://cdn.simpleicons.org/x" alt="X" /></a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img height="20" width="20" src="https://cdn.simpleicons.org/bluesky" alt="Bluesky" /></a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img height="20" width="20" src="https://cdn.simpleicons.org/zhihu" alt="知乎" /></a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img height="20" width="20" src="https://cdn.simpleicons.org/juejin" alt="掘金" /></a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img height="20" width="20" src="https://cdn.simpleicons.org/bilibili" alt="Bilibili" /></a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img height="20" width="20" src="https://cdn.simpleicons.org/xiaohongshu" alt="小红书" /></a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img height="20" width="20" src="https://cdn.simpleicons.org/tiktok" alt="抖音" /></a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img height="20" width="20" src="https://cdn.simpleicons.org/kuaishou" alt="快手" /></a>
 </p>
 
