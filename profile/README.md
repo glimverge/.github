@@ -13,16 +13,16 @@ Building minimal, reliable tools through personal experimentation.
 
 ## About
 
-An independent studio wandering the edges of technology.  
-Following the glimmer, we experiment at the boundary of AI and software — turning scattered ideas into small, solid tools.
+An independent studio at the boundary of AI and software.  
+We turn scattered ideas into tools that are small enough to hold — and solid enough to trust.
 
 ## Focus
 
-We build where AI, connectivity, and engineering meet — small tools that earn their keep.
+Three directions shape what we ship:
 
-- **AI-native tools** — Bring AI into the fine-grained moments of development, building tools that actually work
-- **Cross-protocol connectivity** — Lightweight bridges across heterogeneous systems, so data can move freely
-- **Full-stack craft** — From frontend to backend, exploring elegant engineering practices
+- **AI-native tools** — Bring AI into the fine-grained moments of development
+- **Cross-protocol connectivity** — Lightweight bridges across heterogeneous systems
+- **Full-stack craft** — Elegant engineering from frontend to backend
 
 ## Contributing
 
