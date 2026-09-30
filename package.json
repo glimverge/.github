@@ -1,15 +1,10 @@
 {
-  "name": ".github",
-  "version": "1.0.0",
-  "description": "",
-  "keywords": [],
-  "license": "ISC",
-  "author": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "name": "glimverge",
+  "version": "0.0.0",
+  "description": "做极简、可靠的工具，并持续探索技术前沿",
   "devDependencies": {
+    "@tsconfig/node24": "24.0.5",
+    "typescript": "7.0.2",
     "vite-plus": "1.0.0"
   }
 }
