@@ -1,4 +1,3 @@
-# Glimverge
 > 临界有光，边界可通  
 > *Where edges meet, glimmers emerge.*
 
