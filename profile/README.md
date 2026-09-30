@@ -1,4 +1,5 @@
-> Where edges meet, glimmers emerge.
+> 临界有光，边界可通
+> <i>Where edges meet, glimmers emerge.</i>
 
 Building minimal, reliable tools through personal experimentation.</p>
 
