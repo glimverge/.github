@@ -22,10 +22,12 @@ Bug fixes, features, docs, or ideas — all welcome. See each repository for its
 
 ## Social
 
-- **[Twitter]()** - Ask questions and share ideas
-- **[Juejin]()** - Community Q&A
-- **[Xiaohongshu]()** - Latest updates and announcements
-- **[Bilibili]()**
+- **[X]()** — Short updates and public notes
+- **[知乎]()** — Long-form Q&A and essays
+- **[掘金]()** — Developer articles and discussion
+- **[Bilibili]()** — Video and tech talks
+- **[小红书]()** — Product notes and behind-the-scenes
+- **[抖音]()** — Short video
 
 ---
 
