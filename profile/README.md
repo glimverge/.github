@@ -4,9 +4,27 @@
 Building minimal, reliable tools through personal experimentation.
 
 <p>
-  <a href="https://x.com/heyq02">Twitter</a> ·
-  <a href="https://www.xiaohongshu.com/user/profile/6a2d9e5d000000000f03b001">小红书</a> ·
-  <a href="https://www.zhihu.com/people/heyq02">知乎</a>
+  <a href="https://x.com/heyq02">
+    <img height="16" width="16" src="https://cdn.simpleicons.org/x" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.xiaohongshu.com/user/profile/6a2d9e5d000000000f03b001">
+    <img height="16" width="16" src="https://cdn.simpleicons.org/bluesky" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.xiaohongshu.com/user/profile/6a2d9e5d000000000f03b001">
+    <img height="16" width="16" src="https://cdn.simpleicons.org/bilibili" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.xiaohongshu.com/user/profile/6a2d9e5d000000000f03b001">
+    <img height="16" width="16" src="https://cdn.simpleicons.org/juejin" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.xiaohongshu.com/user/profile/6a2d9e5d000000000f03b001">
+    <img height="16" width="16" src="https://cdn.simpleicons.org/xiaohongshu" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.zhihu.com/people/heyq02">
+    <img height="16" width="16" src="https://cdn.simpleicons.org/zhihu" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.zhihu.com/people/heyq02">
+    <img height="16" width="16" src="https://cdn.simpleicons.org/tiktok" />
+  </a>
 </p>
 
 ---
