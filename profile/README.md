@@ -10,10 +10,9 @@
   <p>Building minimal, reliable tools through personal experimentation.</p>
 
   <p>
-    <a href="https://glimverge.com">Website</a> ·
-    <a href="https://github.com/glimverge">GitHub</a> ·
+    <a href="https://x.com/heyq02">Twitter</a> ·
     <a href="https://www.xiaohongshu.com/user/profile/6a2d9e5d000000000f03b001">小红书</a> ·
-    <a href="https://github.com/glimverge/glimverge/discussions">Discussions</a>
+    <a href="https://www.zhihu.com/people/heyq02">知乎</a>
   </p>
 </div>
 
