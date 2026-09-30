@@ -4,6 +4,7 @@
   "description": "做极简、可靠的工具，并持续探索技术前沿",
   "devDependencies": {
     "@tsconfig/node24": "24.0.5",
+    "@types/node": "26.6.3",
     "typescript": "7.0.2",
     "vite-plus": "1.0.0"
   }
