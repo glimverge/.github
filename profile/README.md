@@ -25,26 +25,29 @@
 
 ## 🌐 About
 
-An independent studio wandering the edges of technology.
+An independent studio wandering the edges of technology.  
 Following the glimmer, we experiment at the boundary of AI and software — turning scattered ideas into small, solid tools.
 
 ## 🚀 Focus
+
+We build where AI, connectivity, and engineering meet — small tools that earn their keep.
 
 - **AI-native tools**: Bring AI into the fine-grained moments of development, building tools that actually work
 - **Cross-protocol connectivity**: Lightweight bridges across heterogeneous systems, so data can move freely
 - **Full-stack craft**: From frontend to backend, exploring elegant engineering practices
 
-## 🧭 Principles
+## 💬 Community & Support
 
-- **Go deep**: Dig into the essence — no black-box wrapping
-- **Minimal & reliable**: Less is more; stability first
-- **Grow quietly**: Iterate in small steps, shine slowly
+- 💭 **[GitHub Discussions](https://github.com/glimverge/glimverge/discussions)** - Ask questions and share ideas
+- 📖 **[Documentation](https://glimverge.com)** - Comprehensive guides and API references
+- 💡 **[Email](mailto::hello@glimverge.com)** - Community Q&A
+- 🐦 **[Twitter](https://twitter.com/glimverge)** - Latest updates and announcements
 
-## 📮 Find Us
+## 🤝 Contributing
 
-- GitHub: [github.com/glimverge](https://github.com/glimverge)
-- Email: `hello@glimverge.com`
-- Discussions: [GitHub Discussions](https://github.com/orgs/glimverge/discussions)
+We welcome contributions from everyone! Whether you're fixing bugs, adding features, improving documentation, or creating design resources, your help makes Glimverge better.
+
+Check out individual project repositories for specific contribution guidelines.
 
 ---
 
