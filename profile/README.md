@@ -39,15 +39,13 @@ We build where AI, connectivity, and engineering meet — small tools that earn 
 ## 💬 Community & Support
 
 - 💭 **[GitHub Discussions](https://github.com/glimverge/glimverge/discussions)** - Ask questions and share ideas
-- 📖 **[Documentation](https://glimverge.com)** - Comprehensive guides and API references
-- 💡 **[Email](mailto::hello@glimverge.com)** - Community Q&A
+- 📖 **[Website](https://glimverge.com)** - Official site
+- 📮 **[Email](mailto:hello@glimverge.com)** - hello@glimverge.com
 - 🐦 **[Twitter](https://twitter.com/glimverge)** - Latest updates and announcements
 
 ## 🤝 Contributing
 
-We welcome contributions from everyone! Whether you're fixing bugs, adding features, improving documentation, or creating design resources, your help makes Glimverge better.
-
-Check out individual project repositories for specific contribution guidelines.
+We welcome contributions — bug fixes, features, docs, or ideas. Check each project's repository for its guidelines.
 
 ---
 
