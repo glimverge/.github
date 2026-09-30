@@ -3,24 +3,24 @@
 
 ---
 
-## About
+## 🌐 About
 
 An independent studio at the boundary of AI and software.  
 We turn scattered ideas into tools that are small enough to hold — and solid enough to trust.
 
-## Focus
+## 🚀 Focus
 
 Three directions shape what we ship:
 
-- **AI-native tools** — Bring AI into the fine-grained moments of development
-- **Cross-protocol connectivity** — Lightweight bridges across heterogeneous systems
-- **Full-stack craft** — Elegant engineering from frontend to backend
+- 🤖 **AI-native tools** — Bring AI into the fine-grained moments of development
+- 🔗 **Cross-protocol connectivity** — Lightweight bridges across heterogeneous systems
+- 🛠️ **Full-stack craft** — Elegant engineering from frontend to backend
 
-## Contributing
+## 🤝 Contributing
 
 Bug fixes, features, docs, or ideas — all welcome. See each repository for its guidelines.
 
-## Social
+## 💬 Social
 
 - <a href="#"><img height="16" width="16" src="https://cdn.simpleicons.org/x" alt="X" /></a> — Release notes, project updates, and public conversation
 - <a href="#"><img height="16" width="16" src="https://cdn.simpleicons.org/zhihu" alt="知乎" /></a> — In-depth Q&A and long-form technical writing
