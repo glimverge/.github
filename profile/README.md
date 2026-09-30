@@ -1,25 +1,48 @@
-![Glimverge 品牌横幅](../images/readme.gif)
+<div align="center">
+  <a href="https://github.com/glimverge">
+    <img width="200" src="../images/logo.jpg" alt="Glimverge Logo">
+  </a>
+</div>
 
-# Glimverge
-> 临界有光，边界可通
-> *Where edges meet, glimmers emerge.*
+<h1 align="center">Glimverge</h1>
 
-一间漫步在技术临界地带的独立工作室。
-循着微光的方向，在 AI 与软件的边界上反复实验，把零散的想法打磨成小而扎实的工具。
+<p align="center">
+  <strong>Where edges meet, glimmers emerge.</strong>
+</p>
 
-## 🔍 在做什么
-- **AI 原生工具**：让 AI 深入开发流程的细枝末节，做真正能用的效率工具
-- **跨协议互联**：在异构系统的壁垒间搭起轻量通路，让数据自由穿行
-- **全栈工程实践**：从前端到后端，摸索工程化的优雅解法
-
-## 🧭 行事逻辑
-- **向下扎根**：抠透本质，不做黑盒包装
-- **极简可靠**：少即是多，稳定优先
-- **安静生长**：小步迭代，慢慢发光
-
-## 📮 找到我们
-- GitHub：[github.com/glimverge](https://github.com/glimverge)
-- 邮箱：`hello@glimverge.com`
+<p align="center">
+  Building minimal, reliable tools through personal experimentation.
+</p>
 
 ---
-*于临界处，见微光生。*
+
+## 🌐 About
+
+An independent studio wandering the edges of technology.
+Following the glimmer, we experiment at the boundary of AI and software — turning scattered ideas into small, solid tools.
+
+## 🚀 Focus
+
+- **AI-native tools**: Bring AI into the fine-grained moments of development, building tools that actually work
+- **Cross-protocol connectivity**: Lightweight bridges across heterogeneous systems, so data can move freely
+- **Full-stack craft**: From frontend to backend, exploring elegant engineering practices
+
+## 🧭 Principles
+
+- **Go deep**: Dig into the essence — no black-box wrapping
+- **Minimal & reliable**: Less is more; stability first
+- **Grow quietly**: Iterate in small steps, shine slowly
+
+## 📮 Find Us
+
+- GitHub: [github.com/glimverge](https://github.com/glimverge)
+- Email: `hello@glimverge.com`
+- Discussions: [GitHub Discussions](https://github.com/orgs/glimverge/discussions)
+
+---
+
+<p align="center">
+  <sub>
+    <i>于临界处，见微光生 ✨</i>
+  </sub>
+</p>
