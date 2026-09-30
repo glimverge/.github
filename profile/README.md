@@ -12,7 +12,7 @@
   <p>
     <a href="https://glimverge.com">Website</a> ·
     <a href="https://github.com/glimverge">GitHub</a> ·
-    <a href="https://twitter.com/glimverge">Twitter</a> ·
+    <a href="https://www.xiaohongshu.com/user/profile/6a2d9e5d000000000f03b001">小红书</a> ·
     <a href="https://github.com/glimverge/glimverge/discussions">Discussions</a>
   </p>
 </div>
@@ -37,7 +37,7 @@ We build where AI, connectivity, and engineering meet — small tools that earn 
 - **[Discussions](https://github.com/glimverge/glimverge/discussions)** — Ask questions and share ideas
 - **[Website](https://glimverge.com)** — Official site
 - **[Email](mailto:hello@glimverge.com)** — hello@glimverge.com
-- **[Twitter](https://twitter.com/glimverge)** — Latest updates
+- **[小红书](https://www.xiaohongshu.com/user/profile/6a2d9e5d000000000f03b001)** — Latest updates
 
 ## Contributing
 
