@@ -1,24 +1,21 @@
-> 临界有光，边界可通  
-> *Where edges meet, glimmers emerge.*
+# Glimverge
+> Where edges meet, glimmers emerge.  
+> 临界有光，边界可通
 
-独立软件开发工作室，以个人视角探索软件技术的边界与可能，打磨简洁、可靠的工具与产品。
+Independent software studio exploring the boundaries of technology. Crafting minimal, reliable tools and solutions through personal research and iterative experimentation.
 
-## 🔍 探索方向
-- 全栈应用工程化实践
-- 开发者效率工具与中间件
-- 跨系统协议互联探索
-- 自动化工作流与效率方案
+## Areas of Exploration
+- Full-stack engineering & developer experience
+- Developer tooling, middleware & efficiency utilities
+- Cross-system protocol interconnection
+- Automated workflow solutions
 
-## 🛠 技术栈
-TypeScript · React · Vue · Java · Spring Boot · Node.js · Python · Docker · 云原生
+## Tech Stack
+TypeScript · React · Vue · Java · Spring Boot · Node.js · Python · Docker · Cloud Native
 
-## 🧭 行事原则
-向下扎根 · 边界友好 · 极简可靠 · 安静生长
+## Principles
+Grounded in fundamentals · Friendly to boundaries · Minimal & reliable · Quiet steady growth
 
-## 📬 联系方式
+## Contact
 - GitHub: [github.com/glimverge](https://github.com/glimverge)
-- 邮箱: `hello@glimverge.com`
-
----
-*于临界处，见微光生。*
-
+- Email: `hello@glimverge.com`
