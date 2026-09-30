@@ -32,13 +32,6 @@ We build where AI, connectivity, and engineering meet — small tools that earn 
 - **Cross-protocol connectivity** — Lightweight bridges across heterogeneous systems, so data can move freely
 - **Full-stack craft** — From frontend to backend, exploring elegant engineering practices
 
-## Community
-
-- **[Discussions](https://github.com/glimverge/glimverge/discussions)** — Ask questions and share ideas
-- **[Website](https://glimverge.com)** — Official site
-- **[Email](mailto:hello@glimverge.com)** — hello@glimverge.com
-- **[小红书](https://www.xiaohongshu.com/user/profile/6a2d9e5d000000000f03b001)** — Latest updates
-
 ## Contributing
 
 Bug fixes, features, docs, or ideas — all welcome. See each repository for its guidelines.
