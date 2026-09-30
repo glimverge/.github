@@ -29,12 +29,14 @@ Glimverge 是一间独立工作室，工作大多落在 AI 与软件相遇的地
 
 ## 💬 社交
 
-- <a href="#"><img height="16" width="16" src="https://cdn.simpleicons.org/x" alt="X" /></a> 发布动态与项目进展
-- <a href="#"><img height="16" width="16" src="https://cdn.simpleicons.org/zhihu" alt="知乎" /></a> 长文与问答
-- <a href="#"><img height="16" width="16" src="https://cdn.simpleicons.org/juejin" alt="掘金" /></a> 工程实践与踩坑记录
-- <a href="#"><img height="16" width="16" src="https://cdn.simpleicons.org/bilibili" alt="Bilibili" /></a> 录屏、演示与技术分享
-- <a href="#"><img height="16" width="16" src="https://cdn.simpleicons.org/xiaohongshu" alt="小红书" /></a> 产品碎片与工作室日常
-- <a href="#"><img height="16" width="16" src="https://cdn.simpleicons.org/tiktok" alt="抖音" /></a> 短视频里的产品亮点
+| 平台 | 内容 |
+| --- | --- |
+| <a href="#"><img height="16" width="16" src="https://cdn.simpleicons.org/x" alt="X" /></a>&nbsp;&nbsp;X | 发布动态与项目进展 |
+| <a href="#"><img height="16" width="16" src="https://cdn.simpleicons.org/zhihu" alt="知乎" /></a>&nbsp;&nbsp;知乎 | 长文与问答 |
+| <a href="#"><img height="16" width="16" src="https://cdn.simpleicons.org/juejin" alt="掘金" /></a>&nbsp;&nbsp;掘金 | 工程实践与踩坑记录 |
+| <a href="#"><img height="16" width="16" src="https://cdn.simpleicons.org/bilibili" alt="Bilibili" /></a>&nbsp;&nbsp;Bilibili | 录屏、演示与技术分享 |
+| <a href="#"><img height="16" width="16" src="https://cdn.simpleicons.org/xiaohongshu" alt="小红书" /></a>&nbsp;&nbsp;小红书 | 产品碎片与工作室日常 |
+| <a href="#"><img height="16" width="16" src="https://cdn.simpleicons.org/tiktok" alt="抖音" /></a>&nbsp;&nbsp;抖音 | 短视频里的产品亮点 |
 
 ---
 
