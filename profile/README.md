@@ -14,6 +14,13 @@
   Building minimal, reliable tools through personal experimentation.
 </p>
 
+<p align="center">
+  <a href="https://glimverge.com">Official Website</a> •
+  <a href="https://github.com/glimverge">GitHub Organization</a> •
+  <a href="https://twitter.com/glimverge">Twitter</a> •
+  <a href="https://github.com/glimverge/glimverge/discussions">Community</a>
+</p>
+
 ---
 
 ## 🌐 About
