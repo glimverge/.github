@@ -2,20 +2,14 @@
 > Where edges meet, glimmers emerge.  
 > 临界有光，边界可通
 
-Independent software studio exploring the boundaries of technology. Crafting minimal, reliable tools and solutions through personal research and iterative experimentation.
+Independent studio exploring the frontiers of AI and software.  
+Building minimal, reliable tools through personal experimentation.
 
-## Areas of Exploration
-- Full-stack engineering & developer experience
-- Developer tooling, middleware & efficiency utilities
-- Cross-system protocol interconnection
-- Automated workflow solutions
+### Focus
+AI-native tooling · Cross-system protocols · Full-stack experiments
 
-## Tech Stack
-TypeScript · React · Vue · Java · Spring Boot · Node.js · Python · Docker · Cloud Native
+### Principles
+Grounded · Minimal · Quiet growth
 
-## Principles
-Grounded in fundamentals · Friendly to boundaries · Minimal & reliable · Quiet steady growth
-
-## Contact
-- GitHub: [github.com/glimverge](https://github.com/glimverge)
-- Email: `hello@glimverge.com`
+### Contact
+[GitHub](https://github.com/glimverge) · hello@glimverge.com
