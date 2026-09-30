@@ -1,6 +1,6 @@
-<p><strong>Where edges meet, glimmers emerge.</strong></p>
+> Where edges meet, glimmers emerge.
 
-<p>Building minimal, reliable tools through personal experimentation.</p>
+Building minimal, reliable tools through personal experimentation.</p>
 
 <p>
   <a href="https://x.com/heyq02">Twitter</a> ·
