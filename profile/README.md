@@ -29,7 +29,7 @@ Bug fixes, features, docs, or ideas — all welcome. See each repository for its
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img height="20" width="20" src="https://cdn.simpleicons.org/zhihu" alt="知乎" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#"><img height="20" width="20" src="https://cdn.simpleicons.org/juejin" alt="掘金" /></a>
+  <a href="https://juejin.cn/user/4404007135100058"><img height="20" width="20" src="https://cdn.simpleicons.org/juejin" alt="掘金" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img height="20" width="20" src="https://cdn.simpleicons.org/bilibili" alt="Bilibili" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
