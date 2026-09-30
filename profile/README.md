@@ -22,12 +22,12 @@ Bug fixes, features, docs, or ideas — all welcome. See each repository for its
 
 ## Social
 
-- **[X]()** — Release notes, project updates, and public conversation
-- **[知乎]()** — In-depth Q&A and long-form technical writing
-- **[掘金]()** — Developer tutorials and engineering posts
-- **[Bilibili]()** — Screencasts, demos, and tech talks
-- **[小红书]()** — Product snapshots and studio notes
-- **[抖音]()** — Short-form product demos and highlights
+- <a href="#"><img height="16" width="16" src="https://cdn.simpleicons.org/x" alt="X" /></a> — Release notes, project updates, and public conversation
+- <a href="#"><img height="16" width="16" src="https://cdn.simpleicons.org/zhihu" alt="知乎" /></a> — In-depth Q&A and long-form technical writing
+- <a href="#"><img height="16" width="16" src="https://cdn.simpleicons.org/juejin" alt="掘金" /></a> — Developer tutorials and engineering posts
+- <a href="#"><img height="16" width="16" src="https://cdn.simpleicons.org/bilibili" alt="Bilibili" /></a> — Screencasts, demos, and tech talks
+- <a href="#"><img height="16" width="16" src="https://cdn.simpleicons.org/xiaohongshu" alt="小红书" /></a> — Product snapshots and studio notes
+- <a href="#"><img height="16" width="16" src="https://cdn.simpleicons.org/tiktok" alt="抖音" /></a> — Short-form product demos and highlights
 
 ---
 
