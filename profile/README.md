@@ -1,18 +1,18 @@
 > 临界有光，边界可通  
 > <i>Where edges meet, glimmers emerge.</i>
 
-## 🌐 关于
+## 🌐 About
 
-名字由 Glimmer（微光） 与 Verge（临界） 拼合而来，愿景是以技术与工程探索未知，寻求突破的那一缕契机
+The name blends **Glimmer** and **Verge**. Our vision is to explore the unknown through technology and engineering, chasing that fleeting spark of breakthrough.
 
-## 🚀 方向
+## 🚀 Focus Areas
 
-- 🤖 **AI Infra**：将新能力纳入真实工作流，试出可促成突破的路径
-- 🛠️ **Vibe Coding**：从前端到后端贯通实现，让试探能够持续落地
+- 🤖 **AI Infra**: Integrate emerging capabilities into real-world workflows, discovering paths that drive meaningful breakthroughs.
+- 🛠️ **Vibe Coding**: Build end-to-end implementations spanning frontend to backend, so experiments can keep landing in production.
 
-## 🤝 贡献
+## 🤝 Contribute
 
-欢迎提交缺陷修复、功能改进、文档修订，或直接提出想法。参与方式见各仓库说明
+Bug fixes, feature enhancements, documentation improvements and idea discussions are all welcome. See each repository for contribution guidelines.
 
 ---
 
