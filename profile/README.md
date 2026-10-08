@@ -1,4 +1,3 @@
-> 临界有光，边界可通  
 > <i>Where edges meet, glimmers emerge.</i>
 
 ## 🌐 About
